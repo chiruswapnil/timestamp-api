@@ -2,9 +2,10 @@
   "name": "timestamp-microservice",
   "version": "1.0.0",
   "description": "This project returns both the Unix timestamp and the natural language form of that date.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node server.js"
   },
   "author": "Chiru Swapnil",
   "license": "ISC",
